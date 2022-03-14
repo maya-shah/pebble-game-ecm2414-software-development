@@ -1,4 +1,4 @@
-Pebble Game
+# Pebble Game
 
 This project was created for the ECM2414 Continuous Assessment.
 It lets users pick how many players they want, and writes the results into the corresponding
