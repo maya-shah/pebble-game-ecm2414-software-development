@@ -1,0 +1,196 @@
+
+player has drawn a 10 from bag Z
+Current hand is [10]
+player has drawn a 16 from bag Z
+Current hand is [10, 16]
+player has drawn a 8 from bag Z
+Current hand is [10, 16, 8]
+player has drawn a 10 from bag Z
+Current hand is [10, 16, 8, 10]
+player has drawn a 21 from bag Z
+Current hand is [10, 16, 8, 10, 21]
+player has drawn a 11 from bag Z
+Current hand is [10, 16, 8, 10, 21, 11]
+player has drawn a 14 from bag Z
+Current hand is [10, 16, 8, 10, 21, 11, 14]
+player has drawn a 9 from bag Z
+Current hand is [10, 16, 8, 10, 21, 11, 14, 9]
+player has drawn a 20 from bag Z
+Current hand is [10, 16, 8, 10, 21, 11, 14, 9, 20]
+player has drawn a 14 from bag Z
+Current hand is [10, 16, 8, 10, 21, 11, 14, 9, 20, 14]
+player has discarded a 14 to bag B
+Current hand is [10, 16, 8, 10, 21, 11, 14, 9, 20]
+player has drawn a 25 from bag Z
+Current hand is [10, 16, 8, 10, 21, 11, 14, 9, 20, 25]
+player has discarded a 20 to bag C
+Current hand is [10, 16, 8, 10, 21, 11, 14, 9, 25]
+player has drawn a 7 from bag X
+Current hand is [10, 16, 8, 10, 21, 11, 14, 9, 25, 7]
+player has discarded a 8 to bag A
+Current hand is [10, 16, 10, 21, 11, 14, 9, 25, 7]
+player has drawn a 14 from bag X
+Current hand is [10, 16, 10, 21, 11, 14, 9, 25, 7, 14]
+player has discarded a 10 to bag A
+Current hand is [16, 10, 21, 11, 14, 9, 25, 7, 14]
+player has drawn a 14 from bag Z
+Current hand is [16, 10, 21, 11, 14, 9, 25, 7, 14, 14]
+player has discarded a 21 to bag C
+Current hand is [16, 10, 11, 14, 9, 25, 7, 14, 14]
+player has drawn a 7 from bag X
+Current hand is [16, 10, 11, 14, 9, 25, 7, 14, 14, 7]
+player has discarded a 10 to bag A
+Current hand is [16, 11, 14, 9, 25, 7, 14, 14, 7]
+player has drawn a 2 from bag X
+Current hand is [16, 11, 14, 9, 25, 7, 14, 14, 7, 2]
+player has discarded a 14 to bag A
+Current hand is [16, 11, 9, 25, 7, 14, 14, 7, 2]
+player has drawn a 16 from bag Y
+Current hand is [16, 11, 9, 25, 7, 14, 14, 7, 2, 16]
+player has discarded a 14 to bag B
+Current hand is [16, 11, 9, 25, 7, 14, 7, 2, 16]
+player has drawn a 18 from bag Y
+Current hand is [16, 11, 9, 25, 7, 14, 7, 2, 16, 18]
+player has discarded a 16 to bag B
+Current hand is [16, 11, 9, 25, 7, 14, 7, 2, 18]
+player has drawn a 3 from bag Z
+Current hand is [16, 11, 9, 25, 7, 14, 7, 2, 18, 3]
+player has discarded a 16 to bag C
+Current hand is [11, 9, 25, 7, 14, 7, 2, 18, 3]
+player has drawn a 17 from bag X
+Current hand is [11, 9, 25, 7, 14, 7, 2, 18, 3, 17]
+player has discarded a 3 to bag A
+Current hand is [11, 9, 25, 7, 14, 7, 2, 18, 17]
+player has drawn a 13 from bag Y
+Current hand is [11, 9, 25, 7, 14, 7, 2, 18, 17, 13]
+player has discarded a 9 to bag B
+Current hand is [11, 25, 7, 14, 7, 2, 18, 17, 13]
+player has drawn a 25 from bag X
+Current hand is [11, 25, 7, 14, 7, 2, 18, 17, 13, 25]
+player has discarded a 13 to bag A
+Current hand is [11, 25, 7, 14, 7, 2, 18, 17, 25]
+player has drawn a 7 from bag X
+Current hand is [11, 25, 7, 14, 7, 2, 18, 17, 25, 7]
+player has discarded a 14 to bag A
+Current hand is [11, 25, 7, 7, 2, 18, 17, 25, 7]
+player has drawn a 16 from bag X
+Current hand is [11, 25, 7, 7, 2, 18, 17, 25, 7, 16]
+player has discarded a 18 to bag A
+Current hand is [11, 25, 7, 7, 2, 17, 25, 7, 16]
+player has drawn a 14 from bag Z
+Current hand is [11, 25, 7, 7, 2, 17, 25, 7, 16, 14]
+player has discarded a 11 to bag C
+Current hand is [25, 7, 7, 2, 17, 25, 7, 16, 14]
+player has drawn a 13 from bag X
+Current hand is [25, 7, 7, 2, 17, 25, 7, 16, 14, 13]
+player has discarded a 16 to bag A
+Current hand is [25, 7, 7, 2, 17, 25, 7, 14, 13]
+player has drawn a 3 from bag X
+Current hand is [25, 7, 7, 2, 17, 25, 7, 14, 13, 3]
+player has discarded a 13 to bag A
+Current hand is [25, 7, 7, 2, 17, 25, 7, 14, 3]
+player has drawn a 17 from bag X
+Current hand is [25, 7, 7, 2, 17, 25, 7, 14, 3, 17]
+player has discarded a 7 to bag A
+Current hand is [25, 7, 7, 2, 17, 25, 14, 3, 17]
+player has drawn a 5 from bag X
+Current hand is [25, 7, 7, 2, 17, 25, 14, 3, 17, 5]
+player has discarded a 25 to bag A
+Current hand is [25, 7, 7, 2, 17, 14, 3, 17, 5]
+player has drawn a 14 from bag X
+Current hand is [25, 7, 7, 2, 17, 14, 3, 17, 5, 14]
+player has discarded a 2 to bag A
+Current hand is [25, 7, 7, 17, 14, 3, 17, 5, 14]
+player has drawn a 13 from bag X
+Current hand is [25, 7, 7, 17, 14, 3, 17, 5, 14, 13]
+player has discarded a 17 to bag A
+Current hand is [25, 7, 7, 14, 3, 17, 5, 14, 13]
+player has drawn a 6 from bag Y
+Current hand is [25, 7, 7, 14, 3, 17, 5, 14, 13, 6]
+player has discarded a 6 to bag B
+Current hand is [25, 7, 7, 14, 3, 17, 5, 14, 13]
+player has drawn a 22 from bag X
+Current hand is [25, 7, 7, 14, 3, 17, 5, 14, 13, 22]
+player has discarded a 25 to bag A
+Current hand is [7, 7, 14, 3, 17, 5, 14, 13, 22]
+player has drawn a 18 from bag X
+Current hand is [7, 7, 14, 3, 17, 5, 14, 13, 22, 18]
+player has discarded a 18 to bag A
+Current hand is [7, 7, 14, 3, 17, 5, 14, 13, 22]
+player has drawn a 21 from bag Y
+Current hand is [7, 7, 14, 3, 17, 5, 14, 13, 22, 21]
+player has discarded a 5 to bag B
+Current hand is [7, 7, 14, 3, 17, 14, 13, 22, 21]
+player has drawn a 14 from bag X
+Current hand is [7, 7, 14, 3, 17, 14, 13, 22, 21, 14]
+player has discarded a 7 to bag A
+Current hand is [7, 14, 3, 17, 14, 13, 22, 21, 14]
+player has drawn a 11 from bag X
+Current hand is [7, 14, 3, 17, 14, 13, 22, 21, 14, 11]
+player has discarded a 14 to bag A
+Current hand is [7, 3, 17, 14, 13, 22, 21, 14, 11]
+player has drawn a 20 from bag Y
+Current hand is [7, 3, 17, 14, 13, 22, 21, 14, 11, 20]
+player has discarded a 14 to bag B
+Current hand is [7, 3, 17, 13, 22, 21, 14, 11, 20]
+player has drawn a 16 from bag Z
+Current hand is [7, 3, 17, 13, 22, 21, 14, 11, 20, 16]
+player has discarded a 22 to bag C
+Current hand is [7, 3, 17, 13, 21, 14, 11, 20, 16]
+player has drawn a 1 from bag X
+Current hand is [7, 3, 17, 13, 21, 14, 11, 20, 16, 1]
+player has discarded a 17 to bag A
+Current hand is [7, 3, 13, 21, 14, 11, 20, 16, 1]
+player has drawn a 16 from bag X
+Current hand is [7, 3, 13, 21, 14, 11, 20, 16, 1, 16]
+player has discarded a 3 to bag A
+Current hand is [7, 13, 21, 14, 11, 20, 16, 1, 16]
+player has drawn a 12 from bag Y
+Current hand is [7, 13, 21, 14, 11, 20, 16, 1, 16, 12]
+player has discarded a 7 to bag B
+Current hand is [13, 21, 14, 11, 20, 16, 1, 16, 12]
+player has drawn a 4 from bag Y
+Current hand is [13, 21, 14, 11, 20, 16, 1, 16, 12, 4]
+player has discarded a 4 to bag B
+Current hand is [13, 21, 14, 11, 20, 16, 1, 16, 12]
+player has drawn a 21 from bag Z
+Current hand is [13, 21, 14, 11, 20, 16, 1, 16, 12, 21]
+player has discarded a 16 to bag C
+Current hand is [13, 21, 14, 11, 20, 1, 16, 12, 21]
+player has drawn a 14 from bag Z
+Current hand is [13, 21, 14, 11, 20, 1, 16, 12, 21, 14]
+player has discarded a 1 to bag C
+Current hand is [13, 21, 14, 11, 20, 16, 12, 21, 14]
+player has drawn a 23 from bag Y
+Current hand is [13, 21, 14, 11, 20, 16, 12, 21, 14, 23]
+player has discarded a 11 to bag B
+Current hand is [13, 21, 14, 20, 16, 12, 21, 14, 23]
+player has drawn a 4 from bag Z
+Current hand is [13, 21, 14, 20, 16, 12, 21, 14, 23, 4]
+player has discarded a 20 to bag C
+Current hand is [13, 21, 14, 16, 12, 21, 14, 23, 4]
+player has drawn a 25 from bag X
+Current hand is [13, 21, 14, 16, 12, 21, 14, 23, 4, 25]
+player has discarded a 21 to bag A
+Current hand is [13, 14, 16, 12, 21, 14, 23, 4, 25]
+player has drawn a 12 from bag Z
+Current hand is [13, 14, 16, 12, 21, 14, 23, 4, 25, 12]
+player has discarded a 12 to bag C
+Current hand is [13, 14, 16, 21, 14, 23, 4, 25, 12]
+player has drawn a 2 from bag X
+Current hand is [13, 14, 16, 21, 14, 23, 4, 25, 12, 2]
+player has discarded a 23 to bag A
+Current hand is [13, 14, 16, 21, 14, 4, 25, 12, 2]
+player has drawn a 23 from bag X
+Current hand is [13, 14, 16, 21, 14, 4, 25, 12, 2, 23]
+player has discarded a 14 to bag A
+Current hand is [13, 16, 21, 14, 4, 25, 12, 2, 23]
+player has drawn a 10 from bag Y
+Current hand is [13, 16, 21, 14, 4, 25, 12, 2, 23, 10]
+player has discarded a 4 to bag B
+Current hand is [13, 16, 21, 14, 25, 12, 2, 23, 10]
+player has drawn a 8 from bag Z
+Current hand is [13, 16, 21, 14, 25, 12, 2, 23, 10, 8]
+player has discarded a 10 to bag C
+Current hand is [13, 16, 21, 14, 25, 12, 2, 23, 8]
+player has drawn 
